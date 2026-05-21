@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# A Bash script that lists all processes in a user-oriented format
+
+ps -ejH
